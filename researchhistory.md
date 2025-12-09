@@ -18,6 +18,7 @@
 - **[DDGI](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/DDGI/DDGI.md)** - DDGI 전체 시스템 분석 (Probe 배치, Ray Tracing, SH 계산, Variance Shadow Map)
 - **[DDGI Raytracing Flow](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/DDGI/DDGI_Raytracing_Flow.md)** - DDGI Raytracing 상세 과정 (BLAS/TLAS 생성, Surface Data 로드, Lighting 계산)
 - **[VizMotive DDGI](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/DDGI/vizmotive%20DDGI.md)** - VizMotive Engine DDGI 이식 및 Winding Order 문제 해결 (RHS ↔ LHS)
+- **[DDGI Material Bug](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/DDGI/DDGI_material_error.md)** - DDGI Material Sampling Bug 해결
 
 ### Shadow Mapping
 - **[Cascade Shadow Map](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/cascade_shadow_map/cascade_shadow_map.md)** - CSM 구현 원리 및 Dithering 기법 (Bayer Matrix, Blue Noise, Temporal Blending)
