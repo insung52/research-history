@@ -22,6 +22,7 @@
 
 ### Shadow Mapping
 - **[Cascade Shadow Map](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/cascade_shadow_map/cascade_shadow_map.md)** - CSM 구현 원리 및 Dithering 기법 (Bayer Matrix, Blue Noise, Temporal Blending)
+- **[ShadowMap_Display_Error](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/DDGI/ShadowMap_Display_Error.md)** - GUI "Show Shadow Map" 버튼 클릭 시 D3D12 경고 발생 문제 해결
 
 ### Voxel GI
 - **[Voxel GI](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/voxelGI/voxelGI.md)** - Voxel 기반 Global Illumination 전체 파이프라인 (Voxelization, Light Injection, Propagation, ClipMap)
