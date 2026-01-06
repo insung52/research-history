@@ -40,17 +40,17 @@
 
 ## 📊 Timeline
 
-### 2025-01
+### 2026-01
 - **Particle System Flickering 해결** - Double buffering swap 타이밍 수정 (GPU 커맨드 전으로 이동)
 - **Particle Emissive Color 구현** - RGB emissive color + strength 분리
 
-### 2024-12
+### 2025-12
 - **DDGI Winding Order 문제 해결** - RHS CCW geometry의 DXR 호환성 수정
 
-### 2024-11
+### 2025-11
 - **Particle System 구현 완료** - GPU-driven particle system with sorting
 
-### 2024-10
+### 2025-10
 - **DDGI 연구 시작** - Probe 배치, Ray tracing, SH 계산
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-**Last Updated**: 2025-12-04
+**Last Updated**: 2026-01-06
