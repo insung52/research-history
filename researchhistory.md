@@ -10,6 +10,7 @@
 
 ### Vizmotive MCP
 - **[Vz MCP plan](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/plan.md)** - Vizmotive 엔진 mcp 화 개발 계획 정리 문서
+- **[Vz MCP developement report 260113](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/VizMotive_MCP_Implementation_Report.md)** - Vizmotive 엔진 script, mcp 연결 리포트 (260113) 
 
 ### Particle System
 - **[Particle Implementation Documentation](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/particle/particle_implementation_documentation.md)** - GPU 기반 파티클 시스템 전체 구현 과정 (Emit, Simulate, Sort, Double Buffering, Flickering 버그 해결)
