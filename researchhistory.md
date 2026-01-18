@@ -12,6 +12,7 @@
 - **[Vz MCP plan](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/plan.md)** - Vizmotive 엔진 mcp 화 개발 계획 정리 문서
 - **[Vz MCP developement report 260113](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/VizMotive_MCP_Implementation_Report.md)** - Vizmotive 엔진 script, mcp 연결 리포트 (260113)
 - **[instanceResLookupUploadBuffer size error](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/Fix_instanceResLookupUploadBuffer_size.md)** - buffer 크기를 잘못 할당하던 오류 해결
+- **[Vz MCP development report 260118](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/Vz_mcp_development_0118.md)** - Vizmotive 엔진 script, mcp 연결 업데이트 리포트 (260118)
 
 ### Particle System
 - **[Particle Implementation Documentation](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/particle/particle_implementation_documentation.md)** - GPU 기반 파티클 시스템 전체 구현 과정 (Emit, Simulate, Sort, Double Buffering, Flickering 버그 해결)
