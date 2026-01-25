@@ -8,6 +8,9 @@
 
 **Repository**: https://github.com/insung52/Wicked-engine-Deep-Dive
 
+### Wicked Engine 변경사항 추적
+- **[Wicked Engine 2025년 3월 변경사항](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/wicked-follow/wickedfollow_3.md)** - 57개 커밋 분석 (Vehicle Physics, Capsule Shadow, SH GI, Camera Render Texture, Job System, Height Field 등)
+
 ### Vizmotive MCP
 - **[Vz MCP plan](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/plan.md)** - Vizmotive 엔진 mcp 화 개발 계획 정리 문서
 - **[Vz MCP developement report 260113](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/VizMotive_MCP_Implementation_Report.md)** - Vizmotive 엔진 script, mcp 연결 리포트 (260113)
@@ -28,6 +31,7 @@
 
 ### Shadow Mapping
 - **[Cascade Shadow Map](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/shadow/cascade_shadow_map.md)** - CSM 구현 원리 및 Dithering 기법 (Bayer Matrix, Blue Noise, Temporal Blending)
+- **[Capsule Shadow](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/shadow/capsule_shadow.md)** - 캡슐 형태 Soft Shadow 구현 (캐릭터 접지 그림자, Cone 기반 Occlusion)
 - **[ShadowMap_Display_Error](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/shadow/shadow_map_error_2.md)** - GUI "Show Shadow Map" 버튼 클릭 시 D3D12 경고 발생 문제 해결
 
 ### Voxel GI
@@ -47,6 +51,8 @@
 ## 📊 Timeline
 
 ### 2026-01
+- **Wicked Engine 2025년 3월 변경사항 분석** - 57개 커밋 분석 및 VizMotive 비교 (SH GI, Capsule Shadow, Job System 등)
+- **Capsule Shadow 문서 작성** - 캡슐 형태 Soft Shadow 구현 원리 분석
 - **Particle System Flickering 해결** - Double buffering swap 타이밍 수정 (GPU 커맨드 전으로 이동)
 - **Particle Emissive Color 구현** - RGB emissive color + strength 분리
 
@@ -88,4 +94,4 @@
 
 ---
 
-**Last Updated**: 2026-01-06
+**Last Updated**: 2026-01-25
