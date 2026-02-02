@@ -10,7 +10,8 @@
 
 ### Wicked Engine 변경사항 추적
 - **[Wicked Engine 2025년 3월 변경사항](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/wicked-follow/wickedfollow_3.md)** - 57개 커밋 분석 (Vehicle Physics, Capsule Shadow, SH GI, Camera Render Texture, Job System, Height Field 등)
-- **[Wicked followup dx12 3~8](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/wicked-follow/wickedfollow_dx_1.md)** - Wicked Engine 2025년 3월 ~ 8월 DX12 변경사항 정리 및 VizMotive Engine 적용
+- **[Wicked followup dx12 1](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/wicked-follow/wickedfollow_dx_1.md)** - Wicked Engine 2025년 3월 ~ 8월 DX12 변경사항 정리 및 VizMotive Engine 적용
+- **[Wicked followup dx12 2](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/wicked-follow/wickedfollow_dx_2.md)** - Wicked Engine 2025년 9월 ~ 2026년 1월 DX12 변경사항 정리 및 VizMotive Engine 적용
 
 ### Vizmotive MCP
 - **[Vz MCP plan](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/vz_mcp/plan.md)** - Vizmotive 엔진 mcp 화 개발 계획 정리 문서
