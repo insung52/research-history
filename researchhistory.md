@@ -47,12 +47,23 @@
 그래픽스/C++ 기초 개념 문서. topic/apply 문서 읽기 전 배경 지식용.
 
 **그래픽스 (`study/graphics/`)**
-- part0: 컴퓨터 기초 / part1: 그래픽스 기초 / part2: 그래픽스 파이프라인
-- part3: GPU 통신 / part4: 리소스 관리 / part5: 텍스처 라이프사이클 / part6: PSO 엔진 구현
+- **[part0: 컴퓨터 기초](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part0_computer_fundamentals.md)**
+- **[part1: 그래픽스 기초](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part1_graphics_basics.md)**
+- **[part2: 그래픽스 파이프라인](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part2_graphics_pipeline.md)**
+- **[part3: GPU 통신](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part3_gpu_communication.md)**
+- **[part4: 리소스 관리](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part4_resource_management.md)**
+- **[part5: 텍스처 라이프사이클](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part5_texture_lifecycle.md)**
+- **[part6: PSO 엔진 구현](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/graphics/part6_pso_engine_implementation.md)**
 
 **C++ (`study/lan/c++/`)**
-- 포인터·참조 / 비트 연산과 플래그 / 람다와 캡처 / const·constexpr
-- 스마트 포인터·RAII / 템플릿·매크로 / 구조체·초기화 / placement new
+- **[01: 포인터·참조](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/01_pointers_and_references.md)**
+- **[02: 비트 연산과 플래그](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/02_bit_operations_and_flags.md)**
+- **[03: 람다와 캡처](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/03_lambda_and_captures.md)**
+- **[04: const·constexpr](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/04_const_and_constexpr.md)**
+- **[05: 스마트 포인터·RAII](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/05_smart_pointers_and_raii.md)**
+- **[06: 템플릿·매크로](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/06_templates_and_macros.md)**
+- **[07: 구조체·초기화](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/07_structs_and_initialization.md)**
+- **[08: placement new](https://github.com/insung52/Wicked-engine-Deep-Dive/blob/main/study/lan/c%2B%2B/08_placement_new.md)**
 
 ---
 
